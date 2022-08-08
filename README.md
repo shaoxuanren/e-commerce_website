@@ -1,6 +1,18 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# E-commerce website
+
+
+This is a React.js based online shopping website. I'll update the code along my React study with Yihua Zhang.
+
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
